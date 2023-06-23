@@ -48,7 +48,7 @@ Virtual assistants are more common as small firms and startups rely on virtual o
 We no longer even touch or type with our fingertips in modern society. We merely discuss the task, and the virtual assistant completes it. Additionally, the virtual assistant must offer a variety of specialised functions, like translation, weather forecasts, buzzing, searching, and browsing. Voice searches have surpassed text-based online searches made on smartphones, which have just surpassed those made on computers. Analysts predict that by 2020, 50% of searches will be made using speech or voice. More intelligent than ever, virtual assistants are on the rise.
 Give your virtual assistant the freedom to gather data for you and provide thoughtful solutions.
 
-## ETHODOLOGY
+## METHODOLOGY
 We used the model of the waterfall methodology for the development of the project. The Waterfall Methodology is the earliest and most sequential application development life cycle model currently in use. Regardless of the project, it is broken down into various series of levels called initiation, analytics, design, programming, testing, and deployment. Nobody may proceed to a following stage without finishing the preceding step, thus the need for such phases. It is commonly referred to as the linear sequence app development life cycle model for this reason.
 
 ###TASKS EXECUTED AT EACH PROJECT STAGE:
