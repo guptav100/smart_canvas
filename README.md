@@ -101,9 +101,9 @@ Making voice assistance compatible with all Python versions under Windows and Li
 [4] Wobcke, W., Ho. V., Nguyen, A. and Krzywicki, A. (2005), “ A BDI Agent Architecture for Dialogue Modeling and Coordination in a Smart Personal Assistant”, Proceedings of the 2005 IEEE/WIC /ACM International Conference on Intelligent Agent Technology. <br>
 [5] Virtual assistant Using Python <br>
 [6] extrudesign.com <br>
-[7] www.pythonprogramming.net
-[8] www.Geeksforgeeks.com
-[9] Documents Referred :Designing Personal Assistant Software for Task Management using Semantic. Web Technologies and Knowledge Databases - Purushotham Botla. 
+[7] www.pythonprogramming.net <br>
+[8] www.Geeksforgeeks.com <br>
+[9] Documents Referred :Designing Personal Assistant Software for Task Management using Semantic. Web Technologies and Knowledge Databases - Purushotham Botla. <br>
 
 
 
